@@ -18,8 +18,8 @@ package com.geecko.QuickLyric;
  */
 public class Keys {
     // Put your Spotify Key here
-    public static final String SPOTIFY_PUBLIC = "0abc29261dc74426b72c3c44bde9a4d5";
+    public static final String SPOTIFY_PUBLIC = "5fd04ff686ff4c3696f3059703c9c4a9";
     // Put your Spotify Secret here
-    public static String SPOTIFY_SECRET = "";
+    public static String SPOTIFY_SECRET = "9f8665e68e3d478d9ed36a2fc0170c11";
 
 }
